@@ -1,0 +1,1 @@
+Morphology,0,1;Courtyard Size x,0,1;Courtyard Size y,0,1;Courtyard Pos x,0,1;Courtyard Pos y,0,1;Courtyard Rotation,0,1;Floor Count 1,0,1;Floor Count 2,0,1;Floor Count 3,0,1;Floor Count 4,0.1,1;83
