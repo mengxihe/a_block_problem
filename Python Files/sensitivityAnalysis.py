@@ -2,7 +2,6 @@
 """
 Created on Sun Jun 27 19:20:50 2021
 
-@author: liors
 """
 
 from SALib.sample import saltelli

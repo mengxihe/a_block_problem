@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 This script generates data set from different optimization algorithms and random sampling
-Author: Zuardin Akbar
 
 Built based on process_logs_hypervolume.py by Thomas Wortmann
 """

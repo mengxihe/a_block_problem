@@ -2,7 +2,6 @@
 """
 Supervised Machine Learning Exercise using Scikit Learn
 
-Author: Zuardin Akbar
 """
 import pandas as pd
 from  matplotlib import pyplot as plt

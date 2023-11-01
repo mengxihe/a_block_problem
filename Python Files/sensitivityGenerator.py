@@ -2,7 +2,6 @@
 """
 Created on Sun Jun 27 11:29:48 2021
 
-@author: liors
 """
 
 import sys
